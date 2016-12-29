@@ -13,5 +13,5 @@ OR
 
 If you are doing more intense work and are expecting to need to change this please:
 1. copy `billinge.mplstyle` into the local directory of your work
-2. use the above code with the filepath of the new directory. 
+1. use the above code with the filepath of the new directory. 
 Please make a point of keeping the new (paper, poster, grant, etc.) specific style sheet in the version control of the larger work.
