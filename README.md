@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/sbanerjee23/styles)
+
 # styles
 The billinge group matplotlib style sheet.
 
